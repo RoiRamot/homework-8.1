@@ -1,0 +1,6 @@
+C:\projects\קורס .net\7.1\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe.config
+C:\projects\קורס .net\7.1\CustomerApp\CustomerApp\bin\Debug\CustomerApp.exe
+C:\projects\קורס .net\7.1\CustomerApp\CustomerApp\bin\Debug\CustomerApp.pdb
+C:\projects\קורס .net\7.1\CustomerApp\CustomerApp\obj\Debug\CustomerApp.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\7.1\CustomerApp\CustomerApp\obj\Debug\CustomerApp.exe
+C:\projects\קורס .net\7.1\CustomerApp\CustomerApp\obj\Debug\CustomerApp.pdb
